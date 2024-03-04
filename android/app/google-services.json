@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "590677676657",
+    "project_id": "agricultural-crops",
+    "storage_bucket": "agricultural-crops.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590677676657:android:6a2ed0231aa2356adf01d0",
+        "android_client_info": {
+          "package_name": "com.example.agricultural_crops"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5cNt8FZY-bWzcmeZM8lP0NhM97bDfgio"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
